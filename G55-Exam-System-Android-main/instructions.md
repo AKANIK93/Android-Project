@@ -15,16 +15,16 @@ In this, the steps involve:<br>
 
 ***Create a firebase project***<br>
  1.Create a project by clicking on create project in the firebase console.<br>
-   ![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/firebase1.png)
+   ![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/firebase1.png)
 
 
    Fill the necessary details in the pop up window about the project. Edit the project ID if required.<br>
-   ![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/firebase2.png)<br>
+   ![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/firebase2.png)<br>
 
 Click on create project to finally create it.<br>
 2.Now add this project to the android app
    Click on the Add firebase to your android app option on the starting window.<br>
-   ![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/firebase3.png)<br>
+   ![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/firebase3.png)<br>
 
 
 A prompt will open where to enter the package name of the app.
@@ -39,11 +39,11 @@ Go to android studio project<br>
        ↳ Android<br>
          ↳ signingReport<br>
            ↳ copy paste SHA1 from console<br>
- ![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/firebase4.png)<br>
+ ![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/firebase4.png)<br>
 
 4.Now download the google-services.json file if your downloaded project has no json file and
 place it in the root directory of the android app.<br>
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/firebase5.png)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/firebase5.png)<br>
 
 5.Now add the following in the project if these are not existing your given directory folder
 
