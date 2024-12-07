@@ -2,7 +2,7 @@
 
 ***Expected Timeline***<br>
 
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/gantt_chart.jpg)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/gantt_chart.jpg)<br>
 
 ***Feature Description***<br>
 
