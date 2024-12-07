@@ -18,7 +18,7 @@ education system in emergency situations too.
 To use this app, at first an account is needed to be created by it's user. Users can Sign in through Google account.
 Also user can sign in by creating new account by clicking on sign up option.After clicking Sign up,sign up page looks like<br>
 
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/signUpPage.png)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/signUpPage.png)<br>
 
 This section contain Full Name,Email Id,Password,Confirm Password.To sign Up successfully,user have to fill up these
 respective sections.Users have to give existing email because a verification Email has been sent to user email.Also
@@ -36,12 +36,12 @@ naming the category.If user wants to participate in an exam, after entering in t
 and test no. of which he has be instructed to take part in the exam. After clicking on the category and test no.,
 he can see the no of questions and the allotted time for the exam. Then user can enter the exam clicking on the "Start" button.
 After clicking start button the page looks like<br>
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/StartTest1stPage.png)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/StartTest1stPage.png)<br>
 
 In upper section,user can see timer,submit button,bookmark button(We can save Particular question by clicking this button),
 Category Name,Question No out of total questions. Also another button below of submit button,After clicking this button
 the page<br>
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/ShowAllQuestionNo.png)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/ShowAllQuestionNo.png)<br>
 This section shows,total question serial wise.Also we can see which questions we answered,not visited,
 unanswered but visited,also reviewed.If we click on particular question number,then we can go this particular question directly.
 After clicking this page or clicking cross this page will hide.
@@ -53,14 +53,14 @@ we can go next and previous questions.By clicking "Mark For Review" button,we ca
 we clear this particular question and this question wil be unanswered.
 If we want to submit this test,it shows us dialog layout where we can see confirm and  cancel button.If we click cancel button,this
 test will not submit.By clicking confirm button,it will redirect us Result page,this page look like<br>
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/ResultPage.png)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/ResultPage.png)<br>
 In this section,we can see our test score out of 100,time taken,correct and wrong and unanswered questions out of total questions.
 Also, we can see correct answer by clicking view answer button.<br>
 
 By clicking my account bottom navigation button,we can see our my account page.There are dashboard,saved question,
 logout and my profile button.By clicking logout button,we can log out from app.By clicking my profile button,we can see my profile
 page.This page look like<br>
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/myProfilePage.png)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/myProfilePage.png)<br>
 after clicking edit button we can edit our name and mobile number.By clicking save button,we can update our profile date.
 
 By clicking dashboard bottom navigation button,we can see our result in all taken test.<br>
@@ -71,7 +71,7 @@ admin can add this category in home section.<br>
 Admin can add test to different categories using the "Add Test" button. Clicking this button, a page
 will be shown where admin will have to provide the information of "Category Name", "Test Name" and "Test Time".
 Then to add question, admin will have to click "Add Question" button.Question page look like<br>
-![image](https://github.com/cse-250-2018/G55-Exam-System-Android/blob/main/questionPage.jpg)<br>
+![image](https://github.com/AKANIK93/Android-Project/blob/main/G55-Exam-System-Android-main/Project/images/questionPage.jpg)<br>
 A question can be added by providing the information of "Enter Question Number", "Enter Question". There are four option button where four options
 will have to be given among those one will be the right answer. There is a section to provide the correct answer
 to the system, so that the system can identify whether the student's answer is correct or not. There is a "Confirm"
